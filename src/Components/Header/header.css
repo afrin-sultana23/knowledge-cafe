@@ -1,0 +1,21 @@
+#profile {
+    width: 60px;
+    height: 60px;
+}
+.topbar .menu{
+   display: flex;
+   justify-content: end;
+}
+.topbar .menu a{
+    text-decoration: none;
+    padding: 0px 20px;
+    font-size: 19px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #7023ec;
+}
+.topbar .menu a:hover {
+    background-color: #7023ec;
+    color: antiquewhite;
+    border-radius: 8px;
+}
