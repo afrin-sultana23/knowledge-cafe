@@ -1,0 +1,52 @@
+[
+    {
+        "id": "6425d31087884debf377e671",
+        "author_name": "Flouri Needle",
+        "blog_title": "How to get your first job as a self-taught programmer",
+        "cover_image": "https://images.pexels.com/photos/6804581/pexels-photo-6804581.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "author_image": "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "read_time": "10",
+        "publish_date": "2022-06-26 12:56:29",
+        "tags": ["beginners", "programming"]
+    },
+    {
+        "id": "6425d3105119b2e570af111d",
+        "author_name": "Bobbie Illiev",
+        "blog_title": "8 Awesome VS Code Extensions for JavaScript Developers",
+        "cover_image": "https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "author_image": "https://images.pexels.com/photos/789315/pexels-photo-789315.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "read_time": "2",
+        "publish_date": "2022-06-18 03:26:39",
+        "tags": ["beginners", "programming"]
+    },
+    {
+        "id": "6425d310153778a1f6ba2248",
+        "author_name": "Stephen Johnson",
+        "blog_title": "Open-Source Introduction to Bash Scripting Ebook/Guide",
+        "cover_image": "https://images.pexels.com/photos/374768/pexels-photo-374768.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "author_image": "https://images.pexels.com/photos/7015104/pexels-photo-7015104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "read_time": "3",
+        "publish_date": "2022-03-29 10:28:48",
+        "tags": ["beginners", "programming"]
+    },
+    {
+        "id": "6425d3109e7a36eb1647caf5",
+        "author_name": "Annie louis",
+        "blog_title": "The Only Productivity Tip You’ll Ever Need",
+        "cover_image": "https://images.pexels.com/photos/4974912/pexels-photo-4974912.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "author_image": "https://images.pexels.com/photos/2613260/pexels-photo-2613260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "read_time": "7",
+        "publish_date": "2023-03-01 03:32:21",
+        "tags": ["beginners", "programming"]
+    },
+    {
+        "id": "6425d310bd1d4d5e1966b9f3",
+        "author_name": "Elif shafak",
+        "blog_title": "The Easiest Way to Make Small Talk Less Painful",
+        "cover_image": "https://images.pexels.com/photos/5899079/pexels-photo-5899079.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "author_image": "https://images.pexels.com/photos/3093939/pexels-photo-3093939.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "read_time": "6",
+        "publish_date": "2022-01-06 09:46:41",
+        "tags": ["beginners", "programming"]
+    }
+]
